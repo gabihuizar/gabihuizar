@@ -8,4 +8,4 @@ When I'm not working:
 - 👩🏽‍💻 Currently Learning: GraphQL
 - 📖 Currently Reading: How To Be An Anti Racist & The Pragmatic Programmer
 
-<img align="left" width="150" height="150" src="octogaby/octocat.png">
+<img align="left" width="150" height="150" src="https://github.com/gabihuizar/gabihuizar/blob/master/octogaby/octocat.png?raw=true">
