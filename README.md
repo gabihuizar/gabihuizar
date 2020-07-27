@@ -8,5 +8,5 @@ When I'm not working:
 - 👩🏽‍💻 Currently Learning: GraphQL
 - 📖 Currently Reading: How To Be An Anti Racist & The Pragmatic Programmer
 
-![Gaby Octocat]()
+<img align="left" width="150" height="150" src="/octogaby/octocat.png">
 
