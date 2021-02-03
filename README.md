@@ -1,6 +1,6 @@
 ### Hi there 👋 👩🏽‍💻
 
-I'm Gaby, a Software Developer currently working on Rails & Backbone.js apps at work.
+I'm Gaby, a Software Developer.
 
 ## When I'm not working: <img align="left" width="150" height="150" src="https://github.com/gabihuizar/gabihuizar/blob/master/octogaby/octocat.png?raw=true">
 - 🤱🐩 I'm raising a toddler & 2 Standard Poodles.
